@@ -5,7 +5,7 @@ University team project for the course **Algoritmi e Applicazioni per l'Intellig
 
 We built an end-to-end machine learning pipeline that takes daily weather observations and predicts whether the day is suitable for a picnic. It covers data cleaning, feature selection, dimensionality reduction, and a comparison of five classification approaches, from a single decision tree to neural networks.
 
-📓 **Notebook:** [`picnic_weather_classification.ipynb`](picnic_weather_classification.ipynb) · if GitHub does not render it (it is large because of the plots), open it on [nbviewer](https://nbviewer.org/github/<your-username>/picnic-weather-ml/blob/main/picnic_weather_classification.ipynb)
+📓 **Notebook:** [`picnic_weather_classification.ipynb`](picnic_weather_classification.ipynb) · if GitHub does not render it (it is large because of the plots), open it on [nbviewer](https://nbviewer.org/github/<LiberaCmb>/picnic-weather-ml/blob/main/picnic_weather_classification.ipynb)
 📄 **Full report (73 pages):** [`docs/report.pdf`](docs/report.pdf)
 
 <p align="center">
@@ -102,7 +102,7 @@ Hyperparameters were chosen with validation curves, and generalization was check
 ## How to run
 
 ```bash
-git clone https://github.com/<your-username>/picnic-weather-ml.git
+git clone https://github.com/<LiberaCmb>/picnic-weather-ml.git
 cd picnic-weather-ml
 pip install -r requirements.txt
 jupyter notebook picnic_weather_classification.ipynb
